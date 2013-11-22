@@ -1,0 +1,8 @@
+operationcount=0
+workload=edu.usc.bg.workloads.CoreWorkload
+
+ViewProfileAction=0
+ListFriendsAction=0
+
+requestdistribution=dzipfian
+zipfianmean=0.27
